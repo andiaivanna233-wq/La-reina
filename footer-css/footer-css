@@ -1,0 +1,41 @@
+<div class="colum2">
+                <h4>Redes Sociales</h4>
+                <div class="row">
+                    <img src="imagenes/facebook.png" width="30px">
+                    <label>Siguenos en Facebook</label>
+                    </div>
+
+                    <div class="row">
+                    <img src="imagenes/instagram.png" width="30px">
+                    <label>Siguenos en Instagram</label>
+                    </div>
+                    
+                    <div class="row">
+                    <img src="imagenes/tiktok.png" width="30px">
+                    <label>Siguenos en Tiktok</label>
+                    </div>
+
+                    <div class="row">
+                    <img src="imagenes/twitter.png" width="30px">
+                    <label>Siguenos en Twitter</label>
+                    </div>
+                </div>
+
+
+                <div class="colum3">
+                    <h4>Contactos</h4>
+                    <div class="row2">
+                        <img src="imagenes/location.png" width="30px">
+                        <label>AV CAMINO REAL KM 24 - ICA</label>
+                    </div>
+
+                    <div class="row2">
+                    <img src="imagenes/phone.png" width="30px">
+                    <label>+51-928856876</label>
+                </div>
+                <div class="row2">
+                     <img src="imagenes/correo icono.png" width="30px">
+                     <label>andiaivanna233@gmail.com</label>
+                </div>
+            </div>
+        </div>
